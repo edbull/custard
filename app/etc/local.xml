@@ -40,10 +40,10 @@
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[localhost]]></host>
-                    <username><![CDATA[ed.bull]]></username>
-                    <password><![CDATA[mcnapple69]]></password>
-                    <dbname><![CDATA[custard]]></dbname>
+                    <host><![CDATA[localhost;unix_socket=/tmp/mysql/melodie.sock]]></host>
+                    <username><![CDATA[martin]]></username>
+                    <password><![CDATA[WYNbVIQc]]></password>
+                    <dbname><![CDATA[melodie]]></dbname>
                     <active>1</active>
                 </connection>
             </default_setup>
